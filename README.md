@@ -1,4 +1,4 @@
-# credit_card_default_risk_analysis
+# Credit Card Default Risk Analysis
 Trained a classifier model for predicting who is likely to default to achieve a score 0.80 on Kaggle
 <img width="1087" alt="image" src="https://user-images.githubusercontent.com/87890518/205847187-cda6e32b-d0ce-483c-a745-8086f4d62a98.png">
 
